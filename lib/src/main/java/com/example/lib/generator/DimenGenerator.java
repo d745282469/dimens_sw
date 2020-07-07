@@ -10,11 +10,13 @@ public class DimenGenerator {
 
     /**
      * 设计稿尺寸(将自己设计师的设计稿的宽度填入)
+     * 以xhdpi为基准
      */
     private static final int DESIGN_WIDTH = 375;
 
     /**
      * 设计稿的高度  （将自己设计师的设计稿的高度填入）
+     * 以xhdpi为基准
      */
     private static final int DESIGN_HEIGHT = 667;
 

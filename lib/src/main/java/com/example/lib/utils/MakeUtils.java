@@ -21,7 +21,7 @@ public class MakeUtils {
 
    
     private static final String XML_BASE_DPI = "<dimen name=\"base_dpi\">%ddp</dimen>\r\n";
-    private  static final int MAX_SIZE = 720;
+    private  static final int MAX_SIZE = 720; // 控制设计图基准，720*1080为xhdpi
 
     /**
      * 生成的文件名
